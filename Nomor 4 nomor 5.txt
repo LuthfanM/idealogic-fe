@@ -1,0 +1,8 @@
+4. Berikan contoh implementasi REST API 
+https://dummyjson.com/products/1
+jika dibuka akan menampilkan data dalam bentuk object. call api ini lewat fetch / axios.get 
+lalu konversi ke bentuk Json object. terus tinggal pakai. Ez
+
+5. PWA : responsif, dapat diakses baik lewat web / mobile, cepat, gampang digunakan.
+pwa memberikan akses pengalaman yang sama terhadap pengguna aplikasi walaupun di akses melalui platform
+yang berbeda
